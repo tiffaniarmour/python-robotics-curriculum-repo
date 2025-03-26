@@ -1,0 +1,37 @@
+Week,Topics,Resources
+1,"Install Python, Hello World, dev environment",Intro to Python (John Elder) Ch. 1–2
+2,"Variables, math, strings",John Elder Ch. 3
+3,"IF/ELSE, logic circuits explained in Python",John Elder Ch. 4
+4,"Lists, loops (great for servo/sensor arrays)",John Elder Ch. 5–6
+5,"Functions, dictionary basics",John Elder Ch. 7–8
+6,Build a 'virtual robot brain' in Python,Based on Elder’s flashcard logic
+7,"RPi basics, hardware setup",Cicolani Ch. 1–2
+8,Arduino vs Raspberry Pi - hardware overview,YouTube: Paul McWhorter
+9,Blinking LED with Arduino IDE,YouTube: Programming Electronics Academy
+10,Python + Raspberry Pi: GPIO basics,Cicolani Ch. 3
+11,"Input sensors: buttons, IR, distance",Cicolani Ch. 4
+12,Control servo motors + PWM,Cicolani Ch. 5
+13,Mini project: headlight or sensor trigger,Manual update available
+14,RC Club project: turn signals / obstacle warning,Manual update available
+15,Build & test automation script,Manual update available
+16,Document your wiring and code,Manual update available
+17,"Review functions, build command parser",Manual update available
+18,Python Projects for Kids: basic game logic,Manual update available
+19,Use lists to track RC robot state,Manual update available
+20,Create autonomous behavior logic,Manual update available
+21,"Delays, timing, sensor logic",Manual update available
+22,Obstacle avoidance simulation,Manual update available
+23,Serial communication (PySerial),Manual update available
+24,Python -> Arduino serial control,Manual update available
+25,Write a useful automation script,Manual update available
+26,Working with Excel and CSV in Python,Manual update available
+27,Build control interface in Python,Manual update available
+28,Web dashboard using Flask,Manual update available
+29,Sensors on RC car/truck,Manual update available
+30,Field testing and debugging,Manual update available
+31,Final project: telemetry or auto-return logic,Manual update available
+32,Optional: camera module intro,Manual update available
+33,Optional: telemetry data uploader,Manual update available
+34,Finalize documentation & video walkthrough,Manual update available
+35,Present to RC Club,Manual update available
+36,Backup code on GitHub,Manual update available
