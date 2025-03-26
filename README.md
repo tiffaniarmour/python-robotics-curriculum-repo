@@ -43,7 +43,7 @@ Weeks 13–36 include detailed project instructions available separately. These 
 
 ## 🙌 Credits
 
-- Created by: [Your Name or Club Name Here]
+- Created by: Youngstown RC Club www.youngstownrcclub.org
 - Inspired by real RC Club builds, STEM education, and hands-on learning
 
 ## 🚀 License
